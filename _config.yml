@@ -1,5 +1,5 @@
 # General Jekyll Config
 highlighter: pygments
-url: https://pradyumnac.github.io/lagom/
+url: https://pradyumnac.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
