@@ -5,23 +5,23 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
+  github: pradyumnac
   #bitbucket: philipj
-  hacker_news: swanson
+  # hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
-  twitter: _swanson
-  #facebook: zuck
+  twitter: pradyumnacster
+  facebook: pradyumnacster
   #tumblr: animalygifs
-  #linkedin: philipjagielski
+  linkedin: pradyumnac
   #gplus: 110552447039675960964
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
   #flickr: johndoe
 
 # "Hi, I'm _______"
-name: Matt Swanson
-email: test@example.com
-tagline: "weak opinions, strongly held"
+name: Pradyumna Chatterjee
+email: pady92[@]gmail[dot]com
+tagline: "with minds let loose!"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-xxxx-x
